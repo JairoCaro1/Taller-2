@@ -13,4 +13,5 @@ Necesitaremos los datasets de imagenes que podremos encontrar en el [dataset](ht
 
   
 **Instrucciones de ejecución:**  
-Cada notebook se puede ejecutar independiente de los otros, y debemos ingresar las respectivas rutas, las copias de las imagenes se generan automaticamente con el codigo
+Cada notebook se puede ejecutar independiente de los otros, y debemos ingresar las respectivas rutas, las copias de las imagenes se generan automaticamente con el codigo.
+Por el peso del dataset, este mismo no se adjunta en el repositorio.
