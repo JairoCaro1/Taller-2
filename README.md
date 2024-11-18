@@ -8,7 +8,7 @@
 
   
 **Dependencias:**  
-Necesitaremos los datasets de imagenes que podremos encontrar en el [text](https://github.com/marcusklasson/GroceryStoreDataset)
+Necesitaremos los datasets de imagenes que podremos encontrar en el [dataset](https://github.com/marcusklasson/GroceryStoreDataset)
 
 
   
